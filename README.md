@@ -1,4 +1,4 @@
 <img src="Git assets/Logo-light.png">
 <img src="Git assets/text.png">
 
-<p align="center">Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не</p>
+<p align="center">I keen on 3d design for games/media, mainly 3d character design pipeline, but also love to practice hard-surface, props design and animation. Looking forward to be included in any interesting projects:)</p>
